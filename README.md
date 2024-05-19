@@ -1,5 +1,5 @@
-// demo
-// for demo purposes
+<!--  demo
+for demo purposes -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
